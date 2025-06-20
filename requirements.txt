@@ -5,3 +5,4 @@ beautifulsoup4>=4.12.0
 tenacity>=8.2.0
 certifi>=2023.7.22
 python-dotenv
+rich

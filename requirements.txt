@@ -1,0 +1,7 @@
+requests>=2.31.0
+google-api-python-client>=2.100.0
+snscrape>=0.7.0.20230622
+beautifulsoup4>=4.12.0
+tenacity>=8.2.0
+certifi>=2023.7.22
+python-dotenv
